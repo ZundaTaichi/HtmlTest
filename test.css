@@ -1,0 +1,24 @@
+#title {
+    color: green;
+    text-align: center;
+}
+.main {
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+.high {
+    color:mediumslateblue;
+}
+.update-title {
+    color: darkslategray;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    table-layout:fixed;
+    width: 80%;
+}
+table, td, th { border: 2px #808080 solid; }
